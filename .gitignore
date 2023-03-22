@@ -1,0 +1,9 @@
+logs
+node_modules/
+.nyc_output/
+dist/
+tests/data/
+.env
+mysqldata/
+coverage
+tests/
